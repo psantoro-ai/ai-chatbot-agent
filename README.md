@@ -1,4 +1,4 @@
-AI Chatbot Agent 🤖
+AI Marketing Chatbot Agent 🤖
 
 AI-powered conversational chatbot with memory, built using Python and OpenAI.
 
